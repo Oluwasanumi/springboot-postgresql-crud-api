@@ -1,9 +1,9 @@
-# 🚀 Backend: Employee Management System  
+# Backend: Employee Management System  
 
-## 📌 Overview  
+## Overview  
 A backend **Employee Management System REST API** built with **Spring Boot**, leveraging **PostgreSQL** as the database, **Spring Data JPA** for persistence, and **Hibernate** as the ORM. Implements full **CRUD functionality** with RESTful principles, structured error handling, and follows best practices for **scalability and maintainability**.  
 
-## 🛠️ Tech Stack  
+## Tech Stack  
 - **Backend:** Spring Boot, Spring Data JPA, Hibernate  
 - **Database:** PostgreSQL  
 - **API Protocol:** RESTful  
